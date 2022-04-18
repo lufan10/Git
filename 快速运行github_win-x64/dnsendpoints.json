@@ -1,0 +1,90 @@
+[
+  {
+    "host": "gapis.geekzu.org",
+    "port": 443
+  },
+  {
+    "host": "lfs.github.com",
+    "port": 443
+  },
+  {
+    "host": "mrodevicemgr.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "nexusrules.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "account.live.com",
+    "port": 443
+  },
+  {
+    "host": "fonts.geekzu.org",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  },
+  {
+    "host": "login.live.com",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "objects.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "cm.g.doubleclick.net",
+    "port": 443
+  },
+  {
+    "host": "raw.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "viewscreen.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "media.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "www.googletagservices.com",
+    "port": 443
+  },
+  {
+    "host": "dev.ditu.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 22
+  },
+  {
+    "host": "alive.github.com",
+    "port": 443
+  },
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "github-cloud.s3.amazonaws.com",
+    "port": 443
+  }
+]
